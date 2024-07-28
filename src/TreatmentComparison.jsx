@@ -288,7 +288,7 @@ const TreatmentComparison = () => {
 
         <div className="mt-8 text-center text-gray-500 text-sm">
           <a
-            href="https://github.com/yourusername/your-repo-name"
+            href="https://github.com/johnfollicle/HairLossScience.com"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center hover:text-gray-700 transition-colors duration-200"
