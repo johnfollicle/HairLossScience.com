@@ -112,8 +112,8 @@ const TreatmentComparison = () => {
     <div className="min-h-screen bg-gradient-to-br from-indigo-100 to-purple-100 py-6 px-4 sm:py-12 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-8 sm:mb-12">
-          <h1 className="text-4xl sm:text-5xl font-extrabold text-indigo-600">
-            FollicleFacts<span className="text-purple-600">.org</span>
+          <h1 className="text-3xl sm:text-4xl font-extrabold text-indigo-600">
+            HairLossScience<span className="text-purple-600">.com</span>
           </h1>
           <p className="mt-3 max-w-md mx-auto text-lg sm:text-xl text-gray-600">
             Your trusted source for hair loss treatment comparisons based on scientific evidence.
